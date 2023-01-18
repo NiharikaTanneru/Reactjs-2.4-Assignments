@@ -1,0 +1,11 @@
+.main{
+    height:auto;
+    width: 800px;
+    height: 350px;
+    text-align: center;
+    border: 5px solid lightgray;
+    margin-right: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

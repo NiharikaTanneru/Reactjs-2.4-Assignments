@@ -1,0 +1,24 @@
+nav {
+    background-color: white;
+    box-shadow: 1.5px 1.5px 1px gray;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+nav ul li {
+    margin: .8rem 2rem;
+    align-items: center;
+}
+
+input,button {
+    padding: 3px 10px;
+   
+}
+
+#last-li{
+    margin-left: 150px;
+}

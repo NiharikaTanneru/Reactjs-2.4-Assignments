@@ -1,0 +1,11 @@
+.App {
+    margin: 10px auto;
+    width: 900px;
+    height: auto;
+    background-color: lightgray;
+    padding: .5rem 1rem;
+    background-color: rgb(189, 176, 176);
+}
+.center{
+    display: flex;
+}

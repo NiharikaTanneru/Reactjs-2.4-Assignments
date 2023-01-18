@@ -1,0 +1,46 @@
+.section-3 {
+    background-color: white;
+    display: flex;
+    margin-top: 1rem;
+    box-shadow: 1.5px 1.5px 1px gray;
+}
+
+.left-col {
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+
+}
+
+.left-col img {
+    width: 46.8%;
+    margin: 3px;
+}
+
+.right-col {
+    width: 72%;
+    padding: 15px;
+}
+
+.right-col h3 {
+    margin-top: -4px;
+}
+
+.right-col p {
+    font-size: smaller;
+}
+
+.right-col p span {
+    background-color: white;
+    width: 50px;
+    display: inline-block;
+}
+
+.right-col a {
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-size: smaller;
+    font-weight: bolder;
+}

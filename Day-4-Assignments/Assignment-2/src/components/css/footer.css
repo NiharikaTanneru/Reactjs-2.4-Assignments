@@ -1,0 +1,22 @@
+.footer {
+    box-shadow: 1.5px 1.5px 1px gray;
+    background-color: white;
+    margin-top: 1rem;
+    padding: .1rem 0;
+}
+
+.footer ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-items: flex-end;
+}
+
+.footer ul li {
+    font-size: small;
+    margin: 0 10px;
+}
+
+.footer ul .footer-end {
+    padding-left: 12rem;
+}

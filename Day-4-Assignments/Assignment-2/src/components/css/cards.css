@@ -1,0 +1,26 @@
+ .card {
+    box-shadow: 1.5px 1.5px 1px gray;
+    background-color: white;
+    margin: 5px;
+    padding: 15px;
+    height: 325px;
+
+}
+
+ .card img {
+    width: 100%;
+    height: 130px;
+}
+
+ .card p {
+    font-size: smaller;
+    text-align: center;
+}
+
+ .card a {
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-size: smaller;
+    font-weight: bolder;
+}
