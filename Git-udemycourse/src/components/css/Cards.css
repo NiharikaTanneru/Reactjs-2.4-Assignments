@@ -1,0 +1,11 @@
+
+.card .rating{
+    color:rgb(219, 127, 8);
+    font-weight: bold;
+}
+.checked {
+    color: orange;
+  }
+  .fa-solid{
+    font-weight: bold;
+  }
