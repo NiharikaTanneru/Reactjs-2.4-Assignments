@@ -1,0 +1,22 @@
+.navbar{
+    width: 20%;
+    color: rgba(0, 0, 0, 0.888);
+    height: 600px;
+}
+
+.nav-item{
+    padding: 10px; 
+   border-bottom: 1px solid grey;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+#insta-pic{
+    width: 150px;
+    height: 80px;
+    background-color: rgb(221, 216, 216);
+    object-fit: contain;
+}
+.navbar i {
+    color:black;
+}

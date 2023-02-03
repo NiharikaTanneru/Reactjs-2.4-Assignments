@@ -1,0 +1,41 @@
+.section-home{
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.group{
+  display: block;
+  margin: 10px 50px;
+  padding: 10px;
+  width: 80%;
+  height: 80%;
+}
+
+.group .ava img {
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 4px solid rgb(197, 18, 65);
+  }
+  .group
+  {
+   display:flex;
+    }
+    .ava{
+    margin: 5px;
+    }
+    .ava p{
+      font-weight: 800;
+      color: rgb(222, 132, 13);
+      margin: 5px 15px 16px;
+    }
+ h2{
+ padding: 10px;
+  font-weight: bolder;
+ }
+    .SectionImages img{
+      margin: 0 20px 15px;
+      border-radius: 10px;
+    }
