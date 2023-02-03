@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  border: 10px solid yellowgreen;
+  border-radius: 50%;
+  padding: 5rem;
+  width: 40vw;
+  margin: 0 auto;
+  background: #e9ec89;
+}
+
+body{
+  background-color: rgb(118, 196, 196);
+}
