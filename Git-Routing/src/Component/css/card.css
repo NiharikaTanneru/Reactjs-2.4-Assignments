@@ -1,0 +1,15 @@
+.card{
+    width: 280px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+.card .rating{
+    color:rgb(219, 127, 8);
+    font-weight: bold;
+}
+.checked {
+    color: orange;
+  }
+  .fa-solid{
+    font-weight: bold;
+  }
